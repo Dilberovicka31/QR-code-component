@@ -1,0 +1,29 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-size: 15px;
+  font-family: "Outfit", sans-serif;
+
+}
+
+.card-text {
+  color: hsl(220, 15%, 55%);
+}
+
+.container {
+  margin-top: 100px;
+}
+.card-title {
+  color: hsl(218, 44%, 22%);
+  font-weight: 700;
+}
+.card-text {
+  margin-top: 7px;
+
+  font-weight: 400;
+}
+
+footer {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
