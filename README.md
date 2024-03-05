@@ -6,8 +6,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
 - [Screenshot](#screenshot)
+- [Built with](#built-with)
 - [Links](#links)
-
 ## Overview
 
 Component to generate a QR code from a given URL. Styling done mostly with Bootstrap and incorporating a little bit of custom CSS.
@@ -16,10 +16,18 @@ Component to generate a QR code from a given URL. Styling done mostly with Boots
 
 ![screenshot](./images/screenshot.png)
 
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Bootstrap
+- Mobile-first workflow
+
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/Dilberovicka31/QR-code-component)
+- Live Site URL: [Live site URL](https://dilberovicka31.github.io/QR-code-component/)
 
-## My process
+
 
